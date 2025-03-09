@@ -2,7 +2,7 @@
 
 [original repo](https://github.com/omriharel/deej/tree/9c0307b96341538ec46f18d2e9b18aaa84441175)
 
-description: original deej with more accuracy.
+description: deej with more accuracy.
 
 filter: ewma
 
